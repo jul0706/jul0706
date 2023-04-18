@@ -10,15 +10,15 @@
 
 ### Мои навыки:
 
-*HTML
-*CSS
-*JS
-*Visual Studio Code
-*Figma
-*БЭМ
-*ООП
-*API
-*Git
-*Node.js
-*Webpack
-*React
+- HTML
+- CSS
+- JS
+- Visual Studio Code
+- Figma
+- БЭМ
+- ООП
+- API
+- Git
+- Node.js
+- Webpack
+- React
