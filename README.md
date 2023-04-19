@@ -23,5 +23,5 @@
 - Webpack
 - React
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jul0706&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jul0706&theme=dark&background=fff)](https://git.io/streak-stats)
