@@ -10,7 +10,9 @@
 
 ### Мои навыки:
 
-- HTML - CSS - JS
+- HTML 
+- CSS 
+- JS
 - Visual Studio Code
 - Figma
 - БЭМ
