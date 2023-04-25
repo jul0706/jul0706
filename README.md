@@ -10,18 +10,12 @@
 
 ### Мои навыки:
 
-- HTML 
-- CSS 
-- JS
-- Visual Studio Code
-- Figma
-- БЭМ
-- ООП
-- API
-- Git
-- Node.js
-- Webpack
-- React
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  
+</div>
 
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jul0706&theme=dark&background=b7c9d5)](https://git.io/streak-stats)
