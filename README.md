@@ -25,3 +25,5 @@
 
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jul0706&theme=dark&background=b7c9d5)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jul0706)](https://github.com/anuraghazra/github-readme-stats)
